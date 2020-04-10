@@ -7,3 +7,5 @@ print('ADIOS')
 def g():
     print('f')
 print("Im awesome")
+def not_awesome():
+    print("No")
