@@ -9,5 +9,6 @@ def g():
 print("Het")
 def not_awesome():
     print("No")
->>>>>>> master
+
+print('laith')
 
