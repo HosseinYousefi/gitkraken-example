@@ -6,6 +6,9 @@ print("HOLA")
 print('ADIOS')
 def g():
     print('f')
-print("Im awesome")
-
+    
 print('I am adding this to our branch')
+
+def not_awesome():
+    print("No")
+
