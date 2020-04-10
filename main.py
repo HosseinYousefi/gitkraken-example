@@ -7,3 +7,10 @@ print('ADIOS')
 def g():
     print('f')
 print("Im awesome")
+
+print("No, I am awesome")
+
+print("Het")
+
+def im_awesome():
+    print("+")
